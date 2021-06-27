@@ -1,0 +1,9 @@
+BẢN PHÂN CHIA CÔNG VIỆC
+
+ĐẶNG QUANG HUY 
+-	Code htm css and reponsive section  banner , navigation , about, agent, categories, features
+-	darklight theme
+TRẦN TRỌNG HIẾU 
+-	Code htm css and reponsive section  delicious, number, video, blog, say, footer
+-	Back to top button
+Công việc chung  gộp code và sửa lỗi.S
